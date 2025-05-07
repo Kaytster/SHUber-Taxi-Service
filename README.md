@@ -1,5 +1,6 @@
 # SHUber-Taxi-Service
-#### Databases and System Modelling Project on Level 4 at Sheffield Hallam Uni
+#### Databases and System Modelling Project on Level 4 at Sheffield Hallam Uni.
+I worked on this project from Sep 2024 to Dec 2024
 
 ###### Case Study
 *SHUber is a modern taxi service.
